@@ -1,14 +1,18 @@
-  Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+# Hi there, I'm Alejandro 👋
 
-- :man_technologist: I’m working as a Postdoctoral Research Fellow and contributing to developing AI model to understand brain and behavior.
+![My Image](images/my-image.jpg)
 
-- :seedling: Learning about DataViz.
+I'm a **Computational Neuroscientist** 🔬 with a strong background in **Complex Systems** and **Theoretical Physics** 🌐. 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/alejandro-tlaie/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)]<a href="mailto:atboria@gmail.com"> </a>
+I'm passionate about understanding the brain and leveraging my knowledge to create impactful AI solutions.
 
-- ## My Skill Set  
+- 🎓 Education: PhD in Applied Math
+- 💼 Currently working on cutting-edge research in neural networks
+- 🧠 Interests: Machine Learning, Deep Learning, Artificial Intelligence
+- 🌱 I’m currently learning more about biologically-inspired neural networks
+
+## ⚡ Technologies & Skills
+
 <table><tr><td valign="top" width="33%">
 
 ### Artificial Intelligence  
@@ -39,8 +43,9 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" alt="Node.js" height="20" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Inkscape-000000?style=plastic&logo=Inkscape&logoColor=white" alt="Inkscape" height="20" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B" alt="Krita" height="20" /></a>  
-
-</div>
-</td><td valign="top" width="33%">  
-
+  
 </td></tr></table>  
+
+## 📫 Connect with me
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/alejandro-tlaie/) 
+![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)<a href="mailto:atboria@gmail.com"> </a>
