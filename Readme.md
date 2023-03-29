@@ -1,6 +1,6 @@
 # Hi there, I'm Alejandro 👋
 
-![My Image](images/my-image.jpg)
+![My Image](CoverImage.jpeg)
 
 I'm a **Computational Neuroscientist** 🔬 with a strong background in **Complex Systems** and **Theoretical Physics** 🌐. 
 
