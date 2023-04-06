@@ -6,7 +6,7 @@
   <img src="CoverImage.jpeg"/>
 </p>
 
-I'm a **Computational Neuroscientist** 🤖🧠 with a strong background in **Complex Systems** 👾➰ and **Theoretical Physics** 🌐👽. 
+I'm a **Computational Neuroscientist** 🤖🧠 with a background in **Complex Systems** 👾➰ and **Theoretical Physics** 🌐👽. 
 
 I'm passionate about understanding the brain and leveraging my knowledge to create impactful AI solutions.
 
