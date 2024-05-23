@@ -11,9 +11,9 @@ I'm a **Computational Neuroscientist** 🤖🧠 with a background in **Complex S
 I'm passionate about understanding the brain and leveraging my knowledge to create impactful AI solutions.
 
 - 🎓 Education: PhD in Applied Math
-- 💼 Currently working on cutting-edge research in neural networks
+- 💼 Now working on modelling neuro-behavioral interactions through State Space Models.
 - 🧠 Interests: Machine Learning, Deep Learning, Artificial Intelligence
-- 🌱 I’m currently learning more about biologically-inspired neural networks
+- 🌱 I’m currently learning more about AI Safety (governance + alignment) and biologically-inspired neural networks
 
 ## ⚡ Technologies & Skills
 
