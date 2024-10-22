@@ -2,18 +2,14 @@
   Hi there, I'm Alejandro 👋
 </p>
 
-<p align="center">
-  <img src="CoverImage.jpeg"/>
-</p>
-
-I'm a **Computational Neuroscientist** 🤖🧠 with a background in **Complex Systems** 👾➰ and **Theoretical Physics** 🌐👽. 
+I've worked in **Computational Neuroscience** 🧠, **Complex Systems** 👾➰ and **Theoretical Physics** 🌐👽. I'm currently focusing on how to develop and deploy **safer AI systems** 🤖
 
 I'm passionate about understanding the brain and leveraging my knowledge to create impactful AI solutions.
 
-- 🎓 Education: PhD in Applied Math
-- 💼 Now working on modelling neuro-behavioral interactions through State Space Models.
-- 🧠 Interests: Machine Learning, Deep Learning, Artificial Intelligence
-- 🌱 I’m currently learning more about AI Safety (governance + alignment) and biologically-inspired neural networks
+- 🎓 Education: PhD in Applied Math, MPhil in Philosophy of Science (Ethics & LLMs).
+- 💼 Also worked on modelling neuro-behavioral interactions through State Space Models.
+- 🧠 Interests: Machine Learning, Deep Learning, Artificial Intelligence.
+- 🌱 I’m currently learning more about geopolitics.
 
 ## ⚡ Technologies & Skills
 
